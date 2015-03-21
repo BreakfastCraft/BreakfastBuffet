@@ -1,0 +1,27 @@
+{
+    ".*": {
+		"TileInfusionStone": {
+			"instability":"Instability  %.0f"
+		},
+		"TileAlchemyFurnace": {
+			"Vis":"Vis Amount"
+		},
+		"TileSiphon": {
+			"amount":"Vis Amount"
+		},
+		"TileTube.*": {
+			"amount":"Vis Amount"
+		},
+		"TileCrucible": {
+			"Amount":"function p(v){var r = (v);return 'Water Amount  '+r+' mB'};",
+			"Heat":"function p(v){var r = (v);return 'Heat  '+r};"
+		},
+		"TileSpa": {
+			"Amount":"function p(v){var r = (v);return 'Water Amount  '+r+' mB'};",
+			"Items>>>0>>>Count":"function p(v){var r = (v);return 'Bath Salts  '+r};"
+		},
+		"TileJarBrain": {
+			"XP":"XP"
+		}
+	}
+}
