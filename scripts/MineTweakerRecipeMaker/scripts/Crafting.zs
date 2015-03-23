@@ -37,6 +37,68 @@ recipes.removeShaped(<BuildCraft|Factory:machineBlock>, [[<ore:gearIron>, <ore:d
 
 // ================================================================================
 //#MARKER ADD
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:blackberryseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:blueberryseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:candleberryseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:raspberryseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:strawberryseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:cactusfruitseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:asparagusseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:barleyseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:oatsseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:ryeseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:cornseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:bambooshootseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:cantaloupeseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:cucumberseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:wintersquashseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:zucchiniseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:beetseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:onionseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:parsnipseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:peanutseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:radishseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:sweetpotatoseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:turnipseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:rhubarbseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:celeryseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:garlicseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:gingerseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:spiceleafseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:teaseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:coffeeseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:mustardseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:broccoliseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:cauliflowerseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:leekseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:lettuceseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:scallionseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:artichokeseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:brusselsproutseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:cabbageseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:spinachseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:beanseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:soybeanseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:bellpepperseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:chilipepperseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:eggplantseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:okraseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:peasseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:tomatoseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:cottonseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:pineappleseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:grapeseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:kiwiseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:cranberryseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:riceseedItem>], <liquid:seedoil> * 10, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:seaweedseedItem>], <liquid:seedoil> * 10, null, 0);
+
+
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:almondItem>], <liquid:seedoil> * 20, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:cashewItem>], <liquid:seedoil> * 20, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:chestnutItem>], <liquid:seedoil> * 20, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:nutmegItem>], <liquid:seedoil> * 20, null, 0);
+mods.forestry.Squeezer.addRecipe(20, [<harvestcraft:pecanItem>], <liquid:seedoil> * 20, null, 0);
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
