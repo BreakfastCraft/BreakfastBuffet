@@ -1,0 +1,25 @@
+Welcome to Breakfast Buffet LTS
+
+This pack was put together by the BC team as a long term pack. The purpose is to have a server to play on, that won't reset until a set date. 
+
+
+What you can expect:
+
+-The world will reset on August 31th 2019
+-We will try our best to keep the server running. 
+-World backup will be kept
+
+
+if you have issues with the pack, file an issue at our github. https://github.com/BreakfastCraft/BreakfastBuffet/issues
+
+
+About the pack:
+
+::201809018
+
+-Chaos Sirens are turned off
+-Quartz generation in the overworld is off
+-Random Gardian in the ocean are off
+-AE Meteor spawn below y30
+-Astra Sorcery marble is disabled: use Quarks
+-Chisel marble and limestone are disabled.
